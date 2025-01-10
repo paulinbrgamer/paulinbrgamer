@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil👋
+## Sobre mim
 <div style='font-size:12pt;'>
 Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Atualmente estudo para ser um desenvolvedor web.
 </div>
