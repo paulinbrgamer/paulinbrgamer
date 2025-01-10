@@ -22,7 +22,7 @@ Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia d
     <img  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></img>
     <img  src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></img>
     <img  src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'></img>
-    <img  src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'></img>
+    <img  src='https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white'></img>
     <img  src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'></img>
 </div>
 
