@@ -1,7 +1,6 @@
 ## Seja bem vindo ao meu perfil👋
 <div style='font-size:12pt;'>
-Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Tenho experiência desenvolvimento web.
-Além disso, tenho conhecimento básico nas linguagens de programação C e PHP.aprendo inglês por conta própria e consigo compreender e escrever bem, ainda não sou muito proficiente na fala.
+Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Atualmente estudo para ser um desenvolvedor web.
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-francisco-%C3%A1vila-neto-8b5b17304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
