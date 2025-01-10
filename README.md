@@ -3,7 +3,11 @@
 Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Atualmente estudo para ser um desenvolvedor web.
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-francisco-%C3%A1vila-neto-8b5b17304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<div style="display:flex;justify-content:start;margin-top:10px">
+    
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-francisco-%C3%A1vila-neto-8b5b17304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+    
+</div>
        <div style="display:flex;align-items:start;">
         <img style="height:150px;"  src='https://github-readme-stats.vercel.app/api?username=paulinbrgamer&theme=dark'></img>
         <img style="height:150px;"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulinbrgamer&hide_progress=true&theme=dark'></img>   
