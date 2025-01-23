@@ -30,7 +30,7 @@ Meu nome é Paulo Ávila, tenho 18 anos e atualmente estou cursando Engenharia d
 
   <div>
       
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=CountriesSearch&theme=dark)](https://github.com/paulinbrgamer/Adelog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Adelog&theme=dark)](https://github.com/paulinbrgamer/Adelog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=CountriesSearch&theme=dark)](https://github.com/paulinbrgamer/CountriesSearch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Dashub&theme=dark)](https://github.com/paulinbrgamer/Dashub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Notes&theme=dark)](https://github.com/paulinbrgamer/Notes)
