@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a620d98-750d-408d-b168-d125d9dceba3)![image](https://github.com/user-attachments/assets/18b30065-8d03-424e-ba6e-65de4bc44eb3)## Sobre mim
+## Sobre mim
 <div style='font-size:12pt;'>
 Meu nome é Paulo Ávila, tenho 19 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Atualmente estudo para ser um desenvolvedor web.
 </div>
