@@ -18,7 +18,7 @@ Meu nome é Paulo Ávila, tenho 19 anos e atualmente estou cursando Engenharia d
 
 <div style='display:inline_block;justify-content:start;'>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwindcss,styledcomponents,mysql,supabase,nodejs,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,vitest,tailwindcss,styledcomponents,mysql,supabase,nodejs,git,linux&theme=dark)](https://skillicons.dev)
     
 </div>
 
