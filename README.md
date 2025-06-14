@@ -1,37 +1,44 @@
-## Sobre mim
-<div style='font-size:12pt;'>
-Meu nome é Paulo Ávila, tenho 19 anos e atualmente estou cursando Engenharia de Software na UEPA (terceiro semestre).Atualmente estudo para ser um desenvolvedor web.
+## 👨‍💻 Sobre mim
+
+<div style='font-size: 14pt; text-align: justify;'>
+Olá! Meu nome é Paulo Ávila, tenho 19 anos e atualmente curso Engenharia de Software na UEPA (4º semestre).  
+Sou apaixonado por tecnologia e estou focado em me desenvolver como desenvolvedor web full stack, criando aplicações modernas, performáticas e bem estruturadas.
 </div>
 
-<div style="display:flex;justify-content:start;margin-top:10px;">
+<div style="margin-top: 15px;">
     
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-francisco-%C3%A1vila-neto-8b5b17304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-francisco-%C3%A1vila-neto-8b5b17304)  
     
 </div>
-       <div style="display:flex;align-items:start;">
-        <img style="height:150px;"  src='https://github-readme-stats.vercel.app/api?username=paulinbrgamer&theme=dark'></img>
-        <img style="height:150px;"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulinbrgamer&hide_progress=true&theme=dark'></img>   
-    </div>
 
+---
 
-  ## Tecnologias que uso em meus projetos💻🌐
+## 📈 GitHub Stats
 
-<div style='display:inline_block;justify-content:start;'>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=paulinbrgamer&theme=dark&show_icons=true&hide_rank=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinbrgamer&layout=compact&theme=dark&hide_progress=true" />
+</div>
 
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div style='display: flex; flex-wrap: wrap; align-items: center; gap: 10px;'>
+  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,vitest,tailwindcss,styledcomponents,mysql,supabase,nodejs,git,linux&theme=dark)](https://skillicons.dev)
-    
+
 </div>
 
-  ## Alguns projetos pessoais🌐
+---
 
-  <div>
-      
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Adelog&theme=dark)](https://github.com/paulinbrgamer/Adelog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=CountriesSearch&theme=dark)](https://github.com/paulinbrgamer/CountriesSearch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Dashub&theme=dark)](https://github.com/paulinbrgamer/Dashub)
+## 🚀 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=CSV-modify&theme=dark)](https://github.com/paulinbrgamer/CSV-modify)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  </div>
+[![Olt-Manager](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=olt-manager&theme=dark)](https://github.com/paulinbrgamer/olt-manager)
+[![Adelog](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Adelog&theme=dark)](https://github.com/paulinbrgamer/Adelog)
+[![Dashub](https://github-readme-stats.vercel.app/api/pin/?username=paulinbrgamer&repo=Dashub&theme=dark)](https://github.com/paulinbrgamer/Dashub)
 
 
+</div>
